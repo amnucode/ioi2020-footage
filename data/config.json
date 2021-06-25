@@ -1,0 +1,21 @@
+{
+  "problems": [
+    "plants",
+    "supertrees",
+    "tickets",
+    "biscuits",
+    "mushrooms",
+    "stations"
+  ],
+  "days": [
+    1600254000,
+    1600513200
+  ],
+  "unofficials": [
+    "SGP5",
+    "SGP6",
+    "SGP7",
+    "SGP8",
+    "VEN1"
+  ]
+}
